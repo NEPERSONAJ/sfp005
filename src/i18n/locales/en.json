@@ -1,0 +1,35 @@
+{
+  "admin": {
+    "title": "Admin Panel",
+    "login": {
+      "title": "Admin Login",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Sign In",
+      "loggingIn": "Signing in...",
+      "error": "Login failed. Please check your email and password.",
+      "notAdmin": "You don't have admin privileges."
+    },
+    "nav": {
+      "dashboard": "Dashboard",
+      "products": "Products",
+      "users": "Users",
+      "licenses": "Licenses",
+      "languages": "Languages"
+    },
+    "dashboard": {
+      "title": "Overview",
+      "error": "Error loading statistics",
+      "stats": {
+        "totalUsers": "Total Users",
+        "totalProducts": "Total Products",
+        "activeLicenses": "Active Licenses",
+        "totalRevenue": "Total Revenue"
+      }
+    }
+  },
+  "validation": {
+    "email": "Please enter a valid email",
+    "password": "Password must be at least 6 characters"
+  }
+}
